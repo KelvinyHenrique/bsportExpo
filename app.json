@@ -17,10 +17,12 @@
       "**/*"
     ],
     "ios": {
+      "bundleIdentifier": "com.ukecode.bsport",
       "supportsTablet": true
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": ""
   }
 }
